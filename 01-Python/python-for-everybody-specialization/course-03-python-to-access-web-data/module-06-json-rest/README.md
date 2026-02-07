@@ -487,5 +487,5 @@ Now my Python skills are ready for:
 
 ## 👨‍💻 Author
 
-Arslan  
+Arslan Majeed 
 Learning Python → Web → AI → Agentic Systems 🚀
