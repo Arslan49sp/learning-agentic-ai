@@ -17,4 +17,6 @@ __pycache__/
 
 # OS files
 .DS_Store
-emaildb.sqlite
+
+# Database files
+*.sqlite
